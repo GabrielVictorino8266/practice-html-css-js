@@ -41,3 +41,7 @@ CSS é a linguagem usada para estilizar os elementos HTML. Ele permite separar o
 - **Layouts de Página**: Usando `div` e Flexbox para criar layouts responsivos.
 - **Estilização de Texto**: Aplicando estilos a parágrafos, títulos e links.
 - **Navegação**: Criando menus de navegação estilizados.
+
+## Resultado Final
+
+![1721602049474](image/README/1721602049474.png)
